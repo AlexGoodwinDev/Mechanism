@@ -1,9 +1,8 @@
-body{
-	background-attachment: fixed;
-	background-size:cover;
+body{	
+background-size:cover;
 background-color: #232323;
+background-image: url(Images/BigBack.jpg);
 
-margin: 0;
 }
 #links{
   margin: auto;
@@ -41,13 +40,24 @@ h1{
   color: white;
 font-family: 'Amatic SC', cursive;
 }
+.HeaderContainer{
+
+	 height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 #Header{
-margin-top: 0px;
-text-align:center;
+
+
  border: 3px solid black;
-background-image:url(Images/TopBackground.jpg);
-background-size:cover;
-width:100%;
+background-image:url(Images/TopBackground2.jpg);
+
+ width:1920px;
+height:500px;
+
+
+
 
 }
 
@@ -55,9 +65,10 @@ width:100%;
 	
   position: absolute;
   /*background-color: rgba(0, 0, 0, 0.7);*/
-  background-color: #232323;
+ 
+   background-color: rgba(0, 0, 0, 0.6);
   padding: 25px;
-  left: 48%;
+  left: 47%;
   margin-left:-375px;
   margin-top: 50px;
   width: 800px;
