@@ -1,6 +1,6 @@
 body{	
 
-background-color: #232323;
+background-color: #404040;
 }
 #links{
   margin: auto;
@@ -21,22 +21,22 @@ width: 55px;
 #title{
   margin-top: 0;
   padding-top: 200px;
-  font-size:100px;
+  font-size:50px;
   color: white;
   text-align:center;
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Open Sans', sans-serif;
 }
 p{
   text-align: justify;
-  font-size: 24px;
+  font-size: 18px;
   color: white;
- font-family: 'Amatic SC', cursive;
+font-family: 'Open Sans', sans-serif;
 }
 h1{
   text-align: center;
-  font-size: 28px;
+  font-size: 20px;
   color: white;
-font-family: 'Amatic SC', cursive;
+font-family: 'Open Sans', sans-serif;
 }
 .HeaderContainer{
 
@@ -64,7 +64,7 @@ height:500px;
   position: absolute;
   /*background-color: rgba(0, 0, 0, 0.7);*/
  
-   background-color: rgba(0, 0, 0, 0.6);
+   background-color:#212121;
   padding: 25px;
   left: 47%;
   margin-left:-375px;
